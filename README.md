@@ -8,7 +8,8 @@ Adds restocking for most modded ammo to every outfitter, simillar to vanilla mis
 | Mega Freight | Swordfish Missile, V2000 Basilisk Shell, Type-83 Yoden Torpedo, Jaivana Shell, PDS-6 Bomb Package, HPDS-1 Bomb Package, Typhoon Torpedo (MH-4 Typhoon Bomb Pod), Feiyu Missile, Spearfish Missile, Mjolnir Missile, AH-5 Eteron Torpedo, Itano Missile |
 | Lost in Midnight | Culminator Torpedo, Inferno Rocket, Stinger Missile, Swingfire Missile, Meteor Missile, Torpedo (Twin Torpedo Pod), Thunderhead Missile (Thunderhead Pod) |
 | Midnight Expansion | Scattershot Ammo |
-| Midnight Scrapyard | Korath Fireswarm (Fireswarm nest, Fireswarm launcher), Cluster Mine (Korath Scattermine)
+| Midnight Scrapyard | Korath Fireswarm (Fireswarm nest, Fireswarm launcher), Cluster Mine (Korath Scattermine) |
+| Fundamental.Outfit.Expansion | Javelin (Javelin Pod Turret) |
 
 ## Requires the following plugins:
 
@@ -32,4 +33,4 @@ May or may not work for newer or older versions.
 |---------|---------|
 | v1.1.0.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
 | v1.0.0.1 | Initial release |
-| v1.0.0.0 | I know how git works, honest! |
+| v1.0.0.0 | / |
