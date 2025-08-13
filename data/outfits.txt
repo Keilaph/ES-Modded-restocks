@@ -1,0 +1,236 @@
+#  ------------------
+# | Lost in Midnight |
+#  ------------------
+
+outfitter "lim Culminator restock"
+	to sell
+		or
+			has "outfit: Culminator Pod"
+			has "outfit: Culminator Storage Tube"
+	location
+		attributes "outfitter"
+	stock
+		"Culminator Torpedo"
+
+outfitter "lim Inferno Rocket restock"
+	to sell
+		or
+			has "outfit: Inferno Rocket Rack"
+			has "outfit: Inferno Rocket Launcher"
+			has "outfit: Inferno Rocket Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Inferno Rocket"
+
+outfitter "lim Stinger Missile restock"
+	to sell
+		or
+			has "outfit: Stinger Missile Rack"
+			has "outfit: Stinger Missile Launcher"
+			has "outfit: Stinger Missile Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Stinger Missile"
+
+outfitter "lim Swingfire Missile restock"
+	to sell
+		or
+			has "outfit: Swingfire Missile Rack"
+			has "outfit: Swingfire Missile Launcher"
+			has "outfit: Swingfire Missile Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Swingfire Missile"
+
+outfitter "lim Twin Meteor Launcher restock"
+	to sell
+		has "outfit: Twin Meteor Launcher"
+	location
+		attributes "outfitter"
+	stock
+		"Meteor Missile"
+
+outfitter "lim Twin Torpedo Pod restock"
+	to sell
+		has "outfit: Twin Torpedo Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Torpedo"
+
+outfitter "lim Thunderhead Pod restock"
+	to sell
+		has "outfit: Thunderhead Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Thunderhead Missile"
+
+#  --------------------
+# | Midnight Scrapyard |
+#  --------------------
+
+outfitter "ms Korath Fireswarm restock"
+	to sell
+		or
+			has "outfit: Korath Fireswarm Nest"		
+			has "outfit: Korath Fireswarm Launcher"		
+	location
+		attributes "outfitter"
+	stock
+		"Korath Fireswarm"
+		
+outfitter "ms Korath Scattermine restock"
+	to sell
+		has "outfit: Korath Scattermine"
+	location
+		attributes "outfitter"
+	stock
+		"Cluster Mine"
+		
+outfitter "ms Korath Scattermine restock"
+	to sell
+		has "outfit: Korath Scattermine"
+	location
+		attributes "outfitter"
+	stock
+		"Cluster Mine"
+
+#  ------------------------------
+# | Fundamental Outfit Expansion |
+#  ------------------------------
+
+outfitter "foe Javelin Pod Turret restock"
+	to sell
+		has "outfit: Javelin Pod Turret"
+	location
+		attributes "outfitter"
+	stock
+		"Javelin"
+
+#  --------------
+# | Mega Freight |
+#  --------------
+
+outfitter "mgf Swordfish restock"
+	to sell
+		or
+			has "outfit: Swordfish Missile Rack"
+			has "outfit: Swordfish Missile Turret"
+	location
+		attributes "outfitter"
+	stock
+		"Swordfish Missile"
+
+outfitter "mgf V2000 restock"
+	to sell
+		or
+			has "outfit: V2000 Basilisk Turret"
+			has "outfit: V2000 Dual Basilisk Turret"
+	location
+		attributes "outfitter"
+	stock
+		"V2000 Basilisk Shell"
+
+outfitter "mgf Yoden restock"
+	to sell
+		has "outfit: Type-83 Yoden Torpedo Launcher"
+	location
+		attributes "outfitter"
+	stock
+		"Type-83 Yoden Torpedo"
+
+outfitter "mgf Jaivana restock"
+	to sell
+		or
+			has "outfit: Jaivana Shell Storage"
+			has "outfit: LbrC-1 Jaivana Turret"
+	location
+		attributes "outfitter"
+	stock
+		"Jaivana Shell"
+
+outfitter "mgf Jaivana restock"
+	to sell
+		or
+			has "outfit: Jaivana Shell Storage"
+			has "outfit: LbrC-1 Jaivana Turret"
+	location
+		attributes "outfitter"
+	stock
+		"Jaivana Shell"
+
+outfitter "mgf pds-6 restock"
+	to sell
+		has "outfit: GE-PDS-6 Delivery System"
+	location
+		attributes "outfitter"
+	stock
+		"PDS-6 Bomb Package"
+
+outfitter "mgf hpds-6 restock"
+	to sell
+		has "outfit: GE-HPDS-1 Delivery System"
+	location
+		attributes "outfitter"
+	stock
+		"HPDS-1 Bomb Package"
+
+outfitter "mgf typhoon bomb pod restock"
+	to sell
+		has "outfit: MH-4 Typhoon Bomb Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Typhoon Torpedo"
+
+outfitter "mgf Feiyu restock"
+	to sell
+		or
+			has "outfit: Feiyu Missile Rack"
+			has "outfit: Feiyu Missile Launcher"
+			has "outfit: Feiyu Missile Turret"
+	location
+		attributes "outfitter"
+	stock
+		"Feiyu Missile"
+
+outfitter "mgf Spearfish restock"
+	to sell
+		or
+			has "outfit: Spearfish VLS Array"
+			has "outfit: Spearfish Launcher Array"
+	location
+		attributes "outfitter"
+	stock
+		"Spearfish Missile"
+
+outfitter "mgf Mjolnir restock"
+	to sell
+		has "outfit: Mjolnir Launcher"
+	location
+		attributes "outfitter"
+	stock
+		"Mjolnir Missile"
+
+outfitter "mgf Eteron restock"
+	to sell
+		has "outfit: AH-5 Eteron Launch System"
+	location
+		attributes "outfitter"
+	stock
+		"AH-5 Eteron Torpedo"
+
+outfitter "mgf Itano restock"
+	to sell
+		or
+			has "outfit: Itano Missile Rack"
+			has "outfit: Itano SMLS"
+			has "outfit: Itano SMLS Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Itano Missile"
