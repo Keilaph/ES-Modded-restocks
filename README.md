@@ -19,7 +19,7 @@ Lost in Midnight by MidnightPlugins https://github.com/MidnightPlugins/Lost-in-M
 
 Midnight Expansion by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Expansion 0.10.14.0.0, Jun 29 2025
 
-Midnight Scrapyard by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Scrapyard 0.10.14.0.0, Jun 29 2025
+Midnight Expansion by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Expansion 0.10.14.0.0, Jun 29 2025
 
 Fundamental.Outfit.Expansion (compilation) https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#fundamentaloutfitexpansion 1.4.0, 2025-07-19
 
