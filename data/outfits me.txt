@@ -1,0 +1,13 @@
+#  --------------------
+# | Midnight Expansion |
+#  --------------------
+
+outfitter "me Scattershot restock"
+	to sell
+		or
+			has "outfit: Scattershot Gun"
+			has "outfit: Scattershot Rack"
+	location
+		attributes "outfitter"
+	stock
+		"Scattershot Ammo"
