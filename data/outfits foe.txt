@@ -1,0 +1,15 @@
+#  ------------------------------
+# | Fundamental.Outfit.Expansion |
+#  ------------------------------
+
+outfitter "ms Korath Fireswarm restock"
+	to sell
+		has "outfit: Javelin Pod Turret"			
+	location
+		attributes "outfitter"
+	stock
+		"Javelin"
+
+
+
+

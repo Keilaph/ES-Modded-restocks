@@ -40,16 +40,6 @@ outfitter "mgf Jaivana restock"
 	stock
 		"Jaivana Shell"
 
-outfitter "mgf Jaivana restock"
-	to sell
-		or
-			has "outfit: Jaivana Shell Storage"
-			has "outfit: LbrC-1 Jaivana Turret"
-	location
-		attributes "outfitter"
-	stock
-		"Jaivana Shell"
-
 outfitter "mgf pds-6 restock"
 	to sell
 		has "outfit: GE-PDS-6 Delivery System"
