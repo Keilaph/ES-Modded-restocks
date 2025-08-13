@@ -19,6 +19,3 @@ outfitter "ms Korath Scattermine restock"
 		attributes "outfitter"
 	stock
 		"Cluster Mine"
-
-
-
