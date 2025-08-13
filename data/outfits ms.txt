@@ -1,0 +1,30 @@
+#  --------------------
+# | Midnight Scrapyard |
+#  --------------------
+
+outfitter "ms Korath Fireswarm restock"
+	to sell
+		or
+			has "outfit: Korath Fireswarm Nest"		
+			has "outfit: Korath Fireswarm Launcher"		
+	location
+		attributes "outfitter"
+	stock
+		"Korath Fireswarm"
+		
+outfitter "ms Korath Scattermine restock"
+	to sell
+		has "outfit: Korath Scattermine"
+	location
+		attributes "outfitter"
+	stock
+		"Cluster Mine"
+		
+outfitter "ms Korath Scattermine restock"
+	to sell
+		has "outfit: Korath Scattermine"
+	location
+		attributes "outfitter"
+	stock
+		"Cluster Mine"
+
