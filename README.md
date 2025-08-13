@@ -26,3 +26,10 @@ Fundamental.Outfit.Expansion (compilation) https://github.com/LixiChronikouOriou
 May or may not work for newer or older versions.
 
 *Thank you to aforementioned creators for making such excellent plugins!*
+
+## Changelog
+| Version | Changes |
+|---------|---------|
+| v1.1.0.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
+| v1.0.0.1 | Initial release |
+| v1.0.0.0 | I know how git works, honest! |
