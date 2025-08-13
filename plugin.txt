@@ -1,10 +1,11 @@
 name "Modded restocks"
 about "Adds restocking for most modded ammo to every outfitter, if you have their launchers or storage installed"
 about "Nukes and other one-shot weapons are not restocked"
-version 1.0.0.1
+version 1.0.1.0
 dependencies
 	requires
 		"Mega Freight"
 		"Lost in Midnight"
+		"Midnight Expansion"
 		"Midnight Scrapyard"
 		"Fundamental.Outfit.Expansion"
