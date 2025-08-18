@@ -40,6 +40,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
+| v1.1.0.1 | Fix Fundamental.Outfit.Expansion Javelin outfitter name | 
 | v1.1.0.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
 | v1.0.0.1 | Create separate files for each plugin |
 | v1.0.0.0 | Initial release |
