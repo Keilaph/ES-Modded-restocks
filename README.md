@@ -9,7 +9,6 @@ Adds restocking for most modded ammo to every outfitter, simillar to vanilla mis
 | Lost in Midnight | Culminator Torpedo, Inferno Rocket, Stinger Missile, Swingfire Missile, Meteor Missile, Torpedo (Twin Torpedo Pod), Thunderhead Missile (Thunderhead Pod) | outfits lim.txt |
 | Midnight Expansion | Scattershot Ammo | ouffits me.txt |
 | Midnight Scrapyard | Korath Fireswarm (Fireswarm nest, Fireswarm launcher), Cluster Mine (Korath Scattermine) | outfits ms.txt |
-| Fundamental.Outfit.Expansion | Javelin (Javelin Pod Turret) | outfits foe.txt |
 
 
 If You use only some plugins, keep only relevant files in /data/
@@ -23,8 +22,6 @@ Lost in Midnight by MidnightPlugins https://github.com/MidnightPlugins/Lost-in-M
 Midnight Expansion by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Expansion 0.10.14.0.0, 2025-06-29
 
 Midnight Scrapyard by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Scrapyard 0.10.14.0.0, 2025-06-29
-
-Fundamental.Outfit.Expansion by LixiChronikouOriou https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#fundamentaloutfitexpansion 1.4.0, 2025-07-19
 
 <br />
 Created for Endless Sky Version 0.10.14
@@ -40,6 +37,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
+| v1.1.0.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion itself |
 | v1.1.0.1 | Fix Fundamental.Outfit.Expansion Javelin outfitter name | 
 | v1.1.0.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
 | v1.0.0.1 | Create separate files for each plugin |
