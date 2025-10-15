@@ -43,7 +43,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
-| v1.1.1.0 | Added Zoura's Outfits Expanded restocks |
+| v1.1.1.0 | Added Zoura's Outfits Expanded restocks , Mega Freight V2000 Basilisk gun variant ammo |
 | v1.1.0.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
 | v1.1.0.1 | Fix Fundamental.Outfit.Expansion Javelin outfitter name | 
 | v1.1.0.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
