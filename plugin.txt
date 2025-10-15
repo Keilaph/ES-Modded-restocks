@@ -8,5 +8,5 @@ dependencies
 		"Lost in Midnight"
 		"Midnight Expansion"
 		"Midnight Scrapyard"
-		"Fundamental.Outfit.Expansion"
 		"Zoura's Outfits Expanded"
+
