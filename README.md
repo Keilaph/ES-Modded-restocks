@@ -27,6 +27,8 @@ Midnight Scrapyard by MidnightPlugins https://github.com/MidnightPlugins/Midnigh
 
 Fundamental.Outfit.Expansion by LixiChronikouOriou https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#fundamentaloutfitexpansion 1.4.0, 2025-07-19
 
+Zoura's Outfits Expanded by AvianGeneticist https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded/, 1.4.0.1, 2025-10-15
+
 <br />
 Created for Endless Sky Version 0.10.14
 
