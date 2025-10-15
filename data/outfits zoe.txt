@@ -1,0 +1,140 @@
+#  --------------------------
+# | Zoura's Outfits Expanded |
+#  --------------------------
+
+outfitter "zoe Celebration Starlet restock"
+	to sell
+		or
+			has "Small Celebration Lockbox"
+			has "Large Celebration Lockbox"
+			has "Small Celebration Module"
+			has "Medium Celebration Module"
+			has "Large Celebration Module"
+	location
+		attributes "outfitter"
+	stock
+		"Celebration Starlet"
+		
+outfitter "zoe Praeparit restock"
+	to sell
+		or
+			has "Praeparit Storage Bank"
+			has "Praeparit Punt"
+	location
+		attributes "outfitter"
+	stock
+		"Praeparit Cell"
+		
+outfitter "zoe Charge gas restock"
+	to sell
+		or
+			has "Charge Gas Sprayer"
+			has "Charge Gas Storage Tank"
+			has "Charge Gas Grenadier"
+			has "Charge Barrage Turret"
+	location
+		attributes "outfitter"
+	stock
+		"Charge Gas"
+		
+outfitter "zoe Meteor stockpile restock"
+	to sell
+		or
+			has "Meteor Missile Stockpile"
+	location
+		attributes "outfitter"
+	stock
+		"Meteor Missile"
+		
+outfitter "zoe Sidewinder Missile Silo restock"
+	to sell
+		or
+			has "Sidewinder Missile Silo"
+	location
+		attributes "outfitter"
+	stock
+		"Sidewinder Missile"
+	
+outfitter "zoe Javelin Warehouse restock"
+	to sell
+		or
+			has "Javelin Warehouse"
+	location
+		attributes "outfitter"
+	stock
+		"Javelin"
+	
+outfitter "zoe Torpedo Storage Bay restock"
+	to sell
+		or
+			has "Torpedo Storage Bay"
+	location
+		attributes "outfitter"
+	stock
+		"Torpedo"
+	
+outfitter "zoe Heavy Rocket Depot restock"
+	to sell
+		or
+			has "Heavy Rocket Depot"
+	location
+		attributes "outfitter"
+	stock
+		"Heavy Rocket"
+
+outfitter "zoe Bullet Shelves restock"
+	to sell
+		or
+			has "Bullet Shelves"
+	location
+		attributes "outfitter"
+	stock
+		"Gatling Gun Ammo"
+
+outfitter "zoe Typhoon storage restock"
+	to sell
+		or
+			has "Typhoon Storage Bay"
+	location
+		attributes "outfitter"
+	stock
+		"Typhoon Torpedo"
+
+# not sure if reactor rods should be restocked, TODO decide later
+
+outfitter "zoe Korath Vulcan restock"
+	to sell
+		or
+			has "Korath Vulcan"
+	location
+		attributes "outfitter"
+	stock
+		"Gatling Gun Ammo"
+
+outfitter "zoe piercer restock"
+	to sell
+		or
+			has "Mass Piercer Storage"
+			has "Piercer Missile Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Piercer Missile"
+		
+outfitter "zoe Thunderhead restock"
+	to sell
+		or
+			has "Mass Piercer Storage"
+			has "Piercer Missile Pod"
+	location
+		attributes "outfitter"
+	stock
+		"Piercer Missile"
+
+# TODO rolling thunder missiles, I don't understand why rolling thunder capacity and ammo are different entities here
+# outfit "Rolling Thunder Canister"
+#	category "Ammunition"
+# snip
+# THIS	"rolling thunder capacity" 80
+# THIS	ammo "Thunderhead Missile"
+#	description "These small-scale canisters handle extra ammunition for Rolling Thunder Launchers."
