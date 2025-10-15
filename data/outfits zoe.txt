@@ -5,11 +5,11 @@
 outfitter "zoe Celebration Starlet restock"
 	to sell
 		or
-			has "Small Celebration Lockbox"
-			has "Large Celebration Lockbox"
-			has "Small Celebration Module"
-			has "Medium Celebration Module"
-			has "Large Celebration Module"
+			has "outfit: Small Celebration Lockbox"
+			has "outfit: Large Celebration Lockbox"
+			has "outfit: Small Celebration Module"
+			has "outfit: Medium Celebration Module"
+			has "outfit: Large Celebration Module"
 	location
 		attributes "outfitter"
 	stock
@@ -18,8 +18,8 @@ outfitter "zoe Celebration Starlet restock"
 outfitter "zoe Praeparit restock"
 	to sell
 		or
-			has "Praeparit Storage Bank"
-			has "Praeparit Punt"
+			has "outfit: Praeparit Storage Bank"
+			has "outfit: Praeparit Punt"
 	location
 		attributes "outfitter"
 	stock
@@ -28,10 +28,10 @@ outfitter "zoe Praeparit restock"
 outfitter "zoe Charge gas restock"
 	to sell
 		or
-			has "Charge Gas Sprayer"
-			has "Charge Gas Storage Tank"
-			has "Charge Gas Grenadier"
-			has "Charge Barrage Turret"
+			has "outfit: Charge Gas Sprayer"
+			has "outfit: Charge Gas Storage Tank"
+			has "outfit: Charge Gas Grenadier"
+			has "outfit: Charge Barrage Turret"
 	location
 		attributes "outfitter"
 	stock
@@ -40,7 +40,7 @@ outfitter "zoe Charge gas restock"
 outfitter "zoe Meteor stockpile restock"
 	to sell
 		or
-			has "Meteor Missile Stockpile"
+			has "outfit: Meteor Missile Stockpile"
 	location
 		attributes "outfitter"
 	stock
@@ -49,7 +49,7 @@ outfitter "zoe Meteor stockpile restock"
 outfitter "zoe Sidewinder Missile Silo restock"
 	to sell
 		or
-			has "Sidewinder Missile Silo"
+			has "outfit: Sidewinder Missile Silo"
 	location
 		attributes "outfitter"
 	stock
@@ -58,7 +58,7 @@ outfitter "zoe Sidewinder Missile Silo restock"
 outfitter "zoe Javelin Warehouse restock"
 	to sell
 		or
-			has "Javelin Warehouse"
+			has "outfit: Javelin Warehouse"
 	location
 		attributes "outfitter"
 	stock
@@ -67,7 +67,7 @@ outfitter "zoe Javelin Warehouse restock"
 outfitter "zoe Torpedo Storage Bay restock"
 	to sell
 		or
-			has "Torpedo Storage Bay"
+			has "outfit: Torpedo Storage Bay"
 	location
 		attributes "outfitter"
 	stock
@@ -76,7 +76,7 @@ outfitter "zoe Torpedo Storage Bay restock"
 outfitter "zoe Heavy Rocket Depot restock"
 	to sell
 		or
-			has "Heavy Rocket Depot"
+			has "outfit: Heavy Rocket Depot"
 	location
 		attributes "outfitter"
 	stock
@@ -85,7 +85,7 @@ outfitter "zoe Heavy Rocket Depot restock"
 outfitter "zoe Bullet Shelves restock"
 	to sell
 		or
-			has "Bullet Shelves"
+			has "outfit: Bullet Shelves"
 	location
 		attributes "outfitter"
 	stock
@@ -94,7 +94,7 @@ outfitter "zoe Bullet Shelves restock"
 outfitter "zoe Typhoon storage restock"
 	to sell
 		or
-			has "Typhoon Storage Bay"
+			has "outfit: Typhoon Storage Bay"
 	location
 		attributes "outfitter"
 	stock
@@ -105,7 +105,7 @@ outfitter "zoe Typhoon storage restock"
 outfitter "zoe Korath Vulcan restock"
 	to sell
 		or
-			has "Korath Vulcan"
+			has "outfit: Korath Vulcan"
 	location
 		attributes "outfitter"
 	stock
@@ -114,8 +114,8 @@ outfitter "zoe Korath Vulcan restock"
 outfitter "zoe piercer restock"
 	to sell
 		or
-			has "Mass Piercer Storage"
-			has "Piercer Missile Pod"
+			has "outfit: Mass Piercer Storage"
+			has "outfit: Piercer Missile Pod"
 	location
 		attributes "outfitter"
 	stock
@@ -124,8 +124,8 @@ outfitter "zoe piercer restock"
 outfitter "zoe Thunderhead restock"
 	to sell
 		or
-			has "Mass Piercer Storage"
-			has "Piercer Missile Pod"
+			has "outfit: Mass Piercer Storage"
+			has "outfit: Piercer Missile Pod"
 	location
 		attributes "outfitter"
 	stock
