@@ -9,8 +9,8 @@ Adds restocking for most modded ammo to every outfitter, simillar to vanilla mis
 | Lost in Midnight | Culminator Torpedo, Inferno Rocket, Stinger Missile, Swingfire Missile, Meteor Missile, Torpedo (Twin Torpedo Pod), Thunderhead Missile (Thunderhead Pod) | outfits lim.txt |
 | Midnight Expansion | Scattershot Ammo | ouffits me.txt |
 | Midnight Scrapyard | Korath Fireswarm (Fireswarm nest, Fireswarm launcher), Cluster Mine (Korath Scattermine) | outfits ms.txt |
-| Zoura's Outfits Expanded  | Celebration Starlet, Praeparit Cell, Charge Gas and all outfits that use vanilla ammo | outfits zoe.txt
-| Rumskib | Single, triple, quad gatling turret ammo | outfits rs.txt
+| Zoura's Outfits Expanded  | Celebration Starlet, Praeparit Cell, Charge Gas and outfits that use vanilla ammo | outfits zoe.txt |
+| Rumskib | Single, triple, quad gatling turret ammo | outfits rs.txt |
 
 
 ## Requires the following plugins:
@@ -42,7 +42,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
-| v1.1.1.0 | Added Zoura's Outfits Expanded and Rumskib restocks |
+| v1.1.1.0 | Added Zoura's Outfits Expanded and Rumskib gatling restocks, V2000 Basilisk gun variant ammo restock |
 | v1.1.0.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
 | v1.1.0.1 | Fix Fundamental.Outfit.Expansion Javelin outfitter name | 
 | v1.1.0.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
