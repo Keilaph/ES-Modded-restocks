@@ -13,9 +13,8 @@ Adds restocking for most modded ammo to every outfitter, simillar to vanilla mis
 | Rumskib | Single, triple, quad gatling turret ammo | outfits rs.txt
 
 
-If You use only some plugins, keep only relevant files in /data/
-
 ## Requires the following plugins:
+### If You use only some plugins, keep only relevant files in /data/
 
 Mega Freight by 1010todd https://github.com/1010todd/Mega-Freight/ version >1.0.0010101000100100111, 2025-08-05
 
