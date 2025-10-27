@@ -39,8 +39,7 @@ outfitter "zoe Charge gas restock"
 		
 outfitter "zoe Meteor stockpile restock"
 	to sell
-		or
-			has "outfit: Meteor Missile Stockpile"
+		has "outfit: Meteor Missile Stockpile"
 	location
 		attributes "outfitter"
 	stock
@@ -48,8 +47,7 @@ outfitter "zoe Meteor stockpile restock"
 		
 outfitter "zoe Sidewinder Missile Silo restock"
 	to sell
-		or
-			has "outfit: Sidewinder Missile Silo"
+		has "outfit: Sidewinder Missile Silo"
 	location
 		attributes "outfitter"
 	stock
@@ -57,8 +55,7 @@ outfitter "zoe Sidewinder Missile Silo restock"
 	
 outfitter "zoe Javelin Warehouse restock"
 	to sell
-		or
-			has "outfit: Javelin Warehouse"
+		has "outfit: Javelin Warehouse"
 	location
 		attributes "outfitter"
 	stock
@@ -66,8 +63,7 @@ outfitter "zoe Javelin Warehouse restock"
 	
 outfitter "zoe Torpedo Storage Bay restock"
 	to sell
-		or
-			has "outfit: Torpedo Storage Bay"
+		has "outfit: Torpedo Storage Bay"
 	location
 		attributes "outfitter"
 	stock
@@ -75,8 +71,7 @@ outfitter "zoe Torpedo Storage Bay restock"
 	
 outfitter "zoe Heavy Rocket Depot restock"
 	to sell
-		or
-			has "outfit: Heavy Rocket Depot"
+		has "outfit: Heavy Rocket Depot"
 	location
 		attributes "outfitter"
 	stock
@@ -84,8 +79,7 @@ outfitter "zoe Heavy Rocket Depot restock"
 
 outfitter "zoe Typhoon storage restock"
 	to sell
-		or
-			has "outfit: Typhoon Storage Bay"
+		has "outfit: Typhoon Storage Bay"
 	location
 		attributes "outfitter"
 	stock
@@ -112,10 +106,26 @@ outfitter "zoe piercer restock"
 		attributes "outfitter"
 	stock
 		"Piercer Missile"
+
+# TODO IDK why some outfits use Rolling Thunder Missile ammo and some Thunderhead Missile - CHECK
+
+outfitter "zoe Rolling Thunder restock"
+	to sell
+		has "outfit: Rolling Thunder Canister"
+	location
+		attributes "outfitter"
+	stock
+		"Thunderhead Missile"
+
+outfitter "zoe Rolling Thunder restock"
+	to sell
+		or
+			has "outfit: Rolling Thunder Pod"
+			has "outfit: Rolling Thunder Turret"
+			has "outfit: Rolling Thunder Battery"
+	location
+		attributes "outfitter"
+	stock
+		"Rolling Thunder Missile"
 		
-# TODO rolling thunder missiles, I don't understand why rolling thunder capacity and ammo are different entities here
-# outfit "Rolling Thunder Canister"
-#	category "Ammunition"
-# <snip>
-# THIS	"rolling thunder capacity" 80
-# THIS	ammo "Thunderhead Missile"
+
