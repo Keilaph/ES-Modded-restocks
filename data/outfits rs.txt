@@ -1,0 +1,15 @@
+#  ---------
+# | Rumskib |
+#  ---------
+
+outfitter "rs Gatling Gun Ammo restock"
+	to sell
+		or
+			has "outfit: Rumskib Quad Gatling Turret"
+			has "outfit: Rumskib Triple Gatling Turret"
+			has "outfit: Rumskib Single Gatling Turret"
+	location
+		attributes "outfitter"
+	stock
+		"Gatling Gun Ammo"
+		
