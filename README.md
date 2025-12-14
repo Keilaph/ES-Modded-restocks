@@ -28,6 +28,8 @@ Zoura's Outfits Expanded by AvianGeneticist https://github.com/AvianGeneticist/Z
 
 Rumskib by Loymdayddaud https://github.com/TheGiraffe3/rumskib version >0.10.16 2025-10-26
 
+Fundamental.Outfit.Expansion by LixiChronikouOriou https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#fundamentaloutfitexpansion version >1.7.0 2025-12-09
+
 <br />
 Created for Endless Sky Version >0.10.14
 
@@ -42,7 +44,8 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
-| v1.1.1.0 | Added Zoura's Outfits Expanded and Rumskib gatling restocks, V2000 Basilisk gun variant ammo restock |
+| v1.1.2.0 | Added Fundamental.Outfit.Expansion Beehive rocket restocks |
+| v1.1.1.0 | Added Zoura's Outfits Expanded and Rumskib gatling, Rolling Thunder restocks, Mega Freight V2000 Basilisk gun variant ammo restock |
 | v1.1.0.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
 | v1.1.0.1 | Fix Fundamental.Outfit.Expansion Javelin outfitter name | 
 | v1.1.0.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
