@@ -1,0 +1,16 @@
+#  ------------------------------
+# | Fundamental Outfit Expansion |
+#  ------------------------------
+
+outfitter "foe beehive rocket restock"
+	to sell
+		or
+			has "outfit: Beehive Rocket Pod"
+			has "outfit: Beehive Rocket Launcher"
+			has "outfit: Beehive Rocket Turret"
+			has "outfit: Beehive Rocket Rack"
+	location
+		attributes "outfitter"
+	stock
+		"Beehive Rocket"
+		
