@@ -44,6 +44,17 @@ outfitter "lim Swingfire Missile restock"
 		attributes "outfitter"
 	stock
 		"Swingfire Missile"
+		
+outfitter "lim magnetic mine restock"
+	to sell
+		or
+			has "outfit: Magnetic Mine Rack"
+			has "outfit: Magnetic Mine Depot"
+			has "outfit: Mine Deployer"
+	location
+		attributes "outfitter"
+	stock
+		"Magnetic Mine"
 
 outfitter "lim Twin Meteor Launcher restock"
 	to sell
