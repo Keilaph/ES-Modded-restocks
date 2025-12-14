@@ -44,7 +44,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
-| v1.1.2.0 | Added Fundamental.Outfit.Expansion Beehive rocket restocks |
+| v1.1.2.0 | Added Fundamental.Outfit.Expansion Beehive rocket restocks, Lost In Midnight magnetic mine |
 | v1.1.1.0 | Added Zoura's Outfits Expanded and Rumskib gatling, Rolling Thunder restocks, Mega Freight V2000 Basilisk gun variant ammo restock |
 | v1.1.0.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
 | v1.1.0.1 | Fix Fundamental.Outfit.Expansion Javelin outfitter name | 
