@@ -26,22 +26,22 @@ Adds restocking for most modded ammo to every outfitter, simillar to vanilla mis
 ## Requires the following plugins:
 ### If You use only some plugins, keep only relevant files in /data/
 
-Mega Freight by 1010todd https://github.com/1010todd/Mega-Freight/ version >1.0.0010101000100100111, 2025-08-05
+Mega Freight by 1010todd https://github.com/1010todd/Mega-Freight/ version >=1.0.0010101000100100111, 2025-12-06
 
-Lost in Midnight by MidnightPlugins https://github.com/MidnightPlugins/Lost-in-Midnight/ version >0.10.14.0.1, 2025-07-11
+Lost in Midnight by MidnightPlugins https://github.com/MidnightPlugins/Lost-in-Midnight/ version >=0.10.16.1.4, 2025-12-25
 
-Midnight Expansion by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Expansion version >0.10.14.0.0, 2025-06-29
+Midnight Expansion by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Expansion version >=0.10.16.1.0, 2025-11-22
 
-Midnight Scrapyard by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Scrapyard version >0.10.14.0.0, 2025-06-29
+Midnight Scrapyard by MidnightPlugins https://github.com/MidnightPlugins/Midnight-Scrapyard version >=0.10.16.1.0, 2025-11-22
 
-Zoura's Outfits Expanded by AvianGeneticist https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded/ version >1.4.0.1, 2025-10-15
+Zoura's Outfits Expanded by AvianGeneticist https://github.com/AvianGeneticist/Zoura-s-Outfits-Expanded/ version >=1.4.0.1, 2025-10-15
 
-Rumskib by Loymdayddaud https://github.com/TheGiraffe3/rumskib version >0.10.16 2025-10-26
+Rumskib by Loymdayddaud https://github.com/TheGiraffe3/rumskib version >=0.10.16 2025-10-26
 
-Fundamental.Outfit.Expansion by LixiChronikouOriou https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#fundamentaloutfitexpansion version >1.7.0 2025-12-09
+Fundamental.Outfit.Expansion by LixiChronikouOriou https://github.com/LixiChronikouOriou/ES-plugins/blob/main/README.md#fundamentaloutfitexpansion version >=1.7.0 2025-12-09
 
 <br />
-Created for Endless Sky Version >0.10.14
+Created for Endless Sky Version >=0.10.16
 
 May or may not work on other plugin or game versions.
 
@@ -54,10 +54,11 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
-| v1.1.2.0 | Added Fundamental.Outfit.Expansion Beehive rocket restocks, Lost In Midnight Magnetic mine |
-| v1.1.1.0 | Added Zoura's Outfits Expanded and Rumskib gatling, Rolling Thunder restocks, Mega Freight V2000 Basilisk gun variant ammo restock |
-| v1.1.0.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
-| v1.1.0.1 | Fix Fundamental.Outfit.Expansion Javelin outfitter name | 
-| v1.1.0.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
-| v1.0.0.1 | Create separate files for each plugin |
-| v1.0.0.0 | Initial release |
+| v1.2.0 | Update version convention, its major.minor.fix(.build doesn't make sense it this case), meteor restocks for Meteor turret |
+| v1.1.4 | Added Fundamental.Outfit.Expansion Beehive rocket restocks, Lost In Midnight Magnetic mine |
+| v1.1.3 | Added Zoura's Outfits Expanded and Rumskib gatling, Rolling Thunder restocks, Mega Freight V2000 Basilisk gun variant ammo restock |
+| v1.1.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
+| v1.1.1 | Fix Fundamental.Outfit.Expansion Javelin outfitter name | 
+| v1.1.0 | Added Scattershot Ammo from Midnight Expansion, Javelin ammo for Javelin Pod Turret from Fundamental.Outfit.Expansion |
+| v1.0.1 | Create separate files for each plugin |
+| v1.0.0 | Initial release |
