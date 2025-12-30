@@ -1,4 +1,13 @@
 # Modded-restocks
+
+## THIS IS THE DEV BRANCH - UNTESTED
+
+Midnight plugins introduced an ammo research questline, had to remove all research.txt files to make modded restocks work for some reason
+
+I'm probably missing something obvious
+
+*I don't claim to actually know what i'm doing :)*
+
 ## Plugin for Endless Sky
 Adds restocking for most modded ammo to every outfitter, simillar to vanilla missile restocking, if you have their launchers or storage installed. Nukes and other one-shot weapons are not restocked.
 
@@ -11,7 +20,7 @@ Adds restocking for most modded ammo to every outfitter, simillar to vanilla mis
 | Midnight Scrapyard | Korath Fireswarm (Fireswarm nest, Fireswarm launcher), Cluster Mine (Korath Scattermine) | outfits ms.txt |
 | Zoura's Outfits Expanded  | Celebration Starlet, Praeparit Cell, Charge Gas and outfits that use vanilla ammo | outfits zoe.txt |
 | Rumskib | Single, triple, quad gatling turret ammo | outfits rs.txt |
-| Fundamental.Outfit.Expansion | Beehive rocket | outfits foe.txt |
+| Fundamental.Outfit.Expansion | Beehive rocket, meteor restocks for Meteor turret | outfits foe.txt |
 
 
 ## Requires the following plugins:
