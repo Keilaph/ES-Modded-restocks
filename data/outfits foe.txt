@@ -16,9 +16,7 @@ outfitter "foe beehive rocket restock"
 		
 outfitter "foe meteor missile ofit restock"
 	to sell
-		or
-			has "outfit: Heavy Meteor Missile Launcher"
-			has "outfit: Meteor Missile Turret"
+		has "outfit: Meteor Missile Turret"
 	location
 		attributes "outfitter"
 	stock
