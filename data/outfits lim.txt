@@ -79,3 +79,13 @@ outfitter "lim Thunderhead Pod restock"
 		attributes "outfitter"
 	stock
 		"Thunderhead Missile"
+		
+outfitter "lim Plunder mine restock"
+	to sell
+		or
+			has "outfit: Plunder Depot"
+			has "outfit: Plunder Catapult"
+	location
+		attributes "outfitter"
+	stock
+		"Plunder Mine"
