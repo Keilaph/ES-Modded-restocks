@@ -15,7 +15,7 @@ Adds restocking for most modded ammo to every outfitter, simillar to vanilla mis
 | Plugin| Ammo | /data/ file | 
 |-------|------|---------|
 | Mega Freight | Swordfish Missile, V2000 Basilisk Shell, Type-83 Yoden Torpedo, Jaivana Shell, PDS-6 Bomb Package, HPDS-1 Bomb Package, Typhoon Torpedo (MH-4 Typhoon Bomb Pod), Feiyu Missile, Spearfish Missile, Mjolnir Missile, AH-5 Eteron Torpedo, Itano Missile | outfits mgf.txt |
-| Lost in Midnight | Culminator Torpedo, Inferno Rocket, Stinger Missile, Swingfire Missile, Meteor Missile, Torpedo (Twin Torpedo Pod), Thunderhead Missile (Thunderhead Pod), Magnetic Mine | outfits lim.txt |
+| Lost in Midnight | Culminator Torpedo, Inferno Rocket, Stinger Missile, Swingfire Missile, Meteor Missile, Torpedo (Twin Torpedo Pod), Thunderhead Missile (Thunderhead Pod), Magnetic Mine, Plunder mine | outfits lim.txt |
 | Midnight Expansion | Scattershot Ammo | ouffits me.txt |
 | Midnight Scrapyard | Korath Fireswarm (Fireswarm nest, Fireswarm launcher), Cluster Mine (Korath Scattermine) | outfits ms.txt |
 | Zoura's Outfits Expanded  | Celebration Starlet, Praeparit Cell, Charge Gas and outfits that use vanilla ammo | outfits zoe.txt |
@@ -54,7 +54,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
-| v1.2.0 | Update version convention, its major.minor.fix(.build doesn't make sense it this case), meteor restocks for Meteor turret |
+| v1.2.0 | Update version convention, its major.minor.fix(.build doesn't make sense it this case), meteor restocks for Meteor turret, LiM Plunder mine |
 | v1.1.4 | Added Fundamental.Outfit.Expansion Beehive rocket restocks, Lost In Midnight Magnetic mine |
 | v1.1.3 | Added Zoura's Outfits Expanded and Rumskib gatling, Rolling Thunder restocks, Mega Freight V2000 Basilisk gun variant ammo restock |
 | v1.1.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
