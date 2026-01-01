@@ -54,7 +54,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
-| v1.2.0 | Update version convention, its major.minor.fix(.build doesn't make sense it this case), meteor restocks for Meteor turret, LiM Plunder mine |
+| v1.2.0 | Update version convention, its major.minor.fix(.build doesn't make sense it this case), meteor restocks for Meteor turret, LiM Plunder mine, MGF Shershen missile |
 | v1.1.4 | Added Fundamental.Outfit.Expansion Beehive rocket restocks, Lost In Midnight Magnetic mine |
 | v1.1.3 | Added Zoura's Outfits Expanded and Rumskib gatling, Rolling Thunder restocks, Mega Freight V2000 Basilisk gun variant ammo restock |
 | v1.1.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
