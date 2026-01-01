@@ -111,3 +111,13 @@ outfitter "mgf Itano restock"
 		attributes "outfitter"
 	stock
 		"Itano Missile"
+		
+outfitter "mgf Shershen missile restock"
+	to sell
+		or
+			has "outfit: MGF: Shershen Missile Storage"
+			has "outfit: MGF: Shershen Missile Launcher"
+	location
+		attributes "outfitter"
+	stock
+		"MGF: Shershen Missile"
