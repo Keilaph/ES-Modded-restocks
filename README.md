@@ -1,15 +1,16 @@
 # Modded-restocks
 
-## THIS IS THE DEV BRANCH - UNTESTED
+## THIS IS THE DEV BRANCH - KINDA UNTESTED
 
-Midnight plugins introduced an ammo research questline, had to remove all research.txt files to make modded restocks work for some reason
-
-I'm probably missing something obvious
-
-*I don't claim to actually know what i'm doing :)*
+*I don't claim to actually know what i'm doing*
 
 ## Plugin for Endless Sky
-Adds restocking for most modded ammo to every outfitter, simillar to vanilla missile restocking, if you have their launchers or storage installed. Nukes and other one-shot weapons are not restocked.
+Do you like missiles? Do you hate having to trek all the way across the galaxy to restock that one modded launcher? Do I have a solution for you!
+
+Adds restocking for most modded ammo to every outfitter, simillar to vanilla missile restocking, if you have their launchers or storage installed.
+
+Nukes and other one-shot weapons are not restocked.
+~I have no idea how to do restocks for one shot weapons~
 
 ## Adds ammo restocks for:
 | Plugin| Ammo | /data/ file | 
@@ -54,7 +55,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
-| v1.2.0 | Update version convention, its major.minor.fix(.build doesn't make sense it this case), meteor restocks for Meteor turret, LiM Plunder mine, MGF Shershen missile |
+| v1.2.0 | Meteor restocks for Meteor turret, LiM Plunder mine, MGF Shershen missile, update plugin version convention |
 | v1.1.4 | Added Fundamental.Outfit.Expansion Beehive rocket restocks, Lost In Midnight Magnetic mine |
 | v1.1.3 | Added Zoura's Outfits Expanded and Rumskib gatling, Rolling Thunder restocks, Mega Freight V2000 Basilisk gun variant ammo restock |
 | v1.1.2 | Removed Javelin Pod Turret restock - now included in Fundamental.Outfit.Expansion 1.5.0 |
