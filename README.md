@@ -56,6 +56,7 @@ May or may not work on other plugin or game versions.
 ## Changelog
 | Version | Changes |
 |---------|---------|
+| v1.3.0 | Vanilla Avgi Ophrys and Orchid nukes |
 | v1.2.0 | Meteor restocks for Meteor turret, LiM Plunder mine, MGF Shershen missile, update plugin version convention |
 | v1.1.4 | Added Fundamental.Outfit.Expansion Beehive rocket restocks, Lost In Midnight Magnetic mine |
 | v1.1.3 | Added Zoura's Outfits Expanded and Rumskib gatling, Rolling Thunder restocks, Mega Freight V2000 Basilisk gun variant ammo restock |
