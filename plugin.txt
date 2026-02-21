@@ -1,7 +1,7 @@
 name "Modded restocks"
 about "Adds restocking for most modded ammo to every outfitter, if you have their launchers or storage installed"
-about "Nukes and other one-shot weapons are not restocked"
-version 1.2.0
+about "One-shot weapons are not restocked"
+version 1.3.0
 dependencies
 	requires
 		"Mega Freight"
