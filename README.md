@@ -9,12 +9,13 @@ Do you like missiles? Do you hate having to trek all the way across the galaxy t
 
 Adds restocking for most modded ammo to every outfitter, simillar to vanilla missile restocking, if you have their launchers or storage installed.
 
-Nukes and other one-shot weapons are not restocked.
+One-shot weapons are not restocked.
 ~I have no idea how to do restocks for one shot weapons~
 
 ## Adds ammo restocks for:
 | Plugin| Ammo | /data/ file | 
 |-------|------|---------|
+|Vanilla ES | Avgi Ophrys torpedo, Orchid missile | outfits vanilla.txt |
 | Mega Freight | Swordfish Missile, V2000 Basilisk Shell, Type-83 Yoden Torpedo, Jaivana Shell, PDS-6 Bomb Package, HPDS-1 Bomb Package, Typhoon Torpedo (MH-4 Typhoon Bomb Pod), Feiyu Missile, Spearfish Missile, Mjolnir Missile, AH-5 Eteron Torpedo, Itano Missile | outfits mgf.txt |
 | Lost in Midnight | Culminator Torpedo, Inferno Rocket, Stinger Missile, Swingfire Missile, Meteor Missile, Torpedo (Twin Torpedo Pod), Thunderhead Missile (Thunderhead Pod), Magnetic Mine, Plunder mine | outfits lim.txt |
 | Midnight Expansion | Scattershot Ammo | ouffits me.txt |
