@@ -1,0 +1,22 @@
+#  --------------------
+# | Vanilla ES weapons |
+#  --------------------
+
+outfitter "vanilla Ophrys nuclear torp restock"
+	to sell
+		or
+			has "outfit: External Launch Rail"
+			has "outfit: Ophrys Stockpile"
+	location
+		attributes "outfitter"
+	stock
+		`"Ophrys" Nuclear Torpedo`
+		
+outfitter "vanilla Orchid nuclear missile restock"
+	to sell
+		has "outfit: External Launch Tube"
+	location
+		attributes "outfitter"
+	stock
+		`"Orchid" Nuclear Missile`
+		
